@@ -10,5 +10,5 @@ yarn install || npm install
 node src/index
 
 #Foto
-![alt text](https://github.com/EfraimFelix/webScraping-Puppeteer-cheerio/blob/master/imagens/captura.PNG)
+![alt text](https://github.com/EfraimFelix/WebScrapin-Puppeteer-Cheerio-Excel/blob/master/imagens/captura.PNG)
 
