@@ -2,3 +2,4 @@
 node_modules
 yarn.lock
 Resultado_Pesquisa.xlsx
+.gitignore
